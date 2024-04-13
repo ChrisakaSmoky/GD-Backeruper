@@ -1,6 +1,3 @@
-Here's a README file explaining what users will need to run the provided program:
-
----
 
 # Google Drive Backup Program
 
