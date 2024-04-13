@@ -26,7 +26,7 @@ This program allows you to backup a local folder to Google Drive using the Googl
 1. **Running the Program**:
     - Run the program by executing the script using Python:
         ```
-        python <script_name>.py
+        python main.py
         ```
     - Follow the prompts to provide the local folder path and Google Drive folder ID.
 
